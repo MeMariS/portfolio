@@ -22,8 +22,28 @@ a:hover {
   display: flex;
   justify-content: space-between;
 
+  font-family: "Gill Sans", sans-serif;
   font-size: 20px;
   font-style: normal;
+  font-variant: small-caps;
   font-weight: 500;
   line-height: 25px;
+}
+
+.foot {
+  padding: 20px;
+  margin: 0;
+
+  width: 400px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+
+  font-family: "Gill Sans", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-variant: small-caps;
+  font-weight: 400;
+  line-height: 20px;
 }
