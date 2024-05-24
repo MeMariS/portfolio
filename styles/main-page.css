@@ -2,6 +2,12 @@
   margin: 0 auto;
   padding: 20px 30px;
   display: flex;
+  max-width: 1200px;
+}
+
+.memoji-img {
+  width: 150px;
+  padding-right: 15px;
 }
 
 .bio {
