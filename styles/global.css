@@ -39,10 +39,7 @@ a:hover {
 
 .footer {
   padding: 20px;
-  margin: auto auto 0;
-
-  display: flex;
-  justify-content: space-between;
+  margin-top: auto;
 
   font-family: "Poppins", sans-serif;
   font-size: 20px;
@@ -52,6 +49,10 @@ a:hover {
   line-height: 20px;
 
   background-color: #edc9af;
+}
+
+.footer a:hover {
+  color: #ffffff;
 }
 
 .link-footer-container {
